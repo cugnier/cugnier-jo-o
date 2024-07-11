@@ -1,6 +1,7 @@
 ## Olá sou joão cugnier prazer😊
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/joaoguilhermecugnier)
+<br>
 ![joão cugnier GitHub stats](https://github-readme-stats.vercel.app/api?username=cugnier&show_icons=true&theme=radical)
 
 ## Tecnologias que uso
